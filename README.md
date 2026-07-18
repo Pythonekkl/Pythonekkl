@@ -1,4 +1,4 @@
- [![MasterHead](https://share.google/Mh2BSFHuJhr2wGB9M)
+ [![MasterHead](https://www.magnific.com/free-vector/vector-education-logo_269799926.htm#fromView=image_search_similar&page=1&position=0&uuid=bf8166df-938c-4840-b793-6f7735ca57fc&query=Eduction+logo)
 
 <h1 align="center">Merhaba 👋, ben Azizbek Bazarbayev</h1>
 <h3 align="center">Hindistan'dan tutkulu bir frontend geliştiricisiyim</h3>
